@@ -1,0 +1,6 @@
+this a new file
+for chapter 4
+
+it is ignored
+
+.gitignore
